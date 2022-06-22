@@ -6,4 +6,4 @@ Earthquake data can be downloaded here: https://www.kaggle.com/datasets/aerodina
 
 
 Result:
-(leaflet_shiny.png)[Leaflet App showing earthquakes in Japan
+![leaflet_shiny.png](Leaflet App showing earthquakes in Japan)
