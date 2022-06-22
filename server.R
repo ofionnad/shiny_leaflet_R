@@ -37,7 +37,7 @@ server <- function(input, output, session) {
   #create an additional histogram at the bottom to show distribution (ie. larger earthquakes are less common)
   output$hist_mag_plot <- renderPlot({
     
-    hist(strong()$mag, col='steelblue', border='white')
+    hist(strong()$mag, breaks=30, col='steelblue', border='white', main="Histogram of earthquake magnitudes", xlab="Magnitude")
     
   })
 }
