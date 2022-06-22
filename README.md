@@ -7,4 +7,4 @@ Earthquake data can be downloaded here: https://www.kaggle.com/datasets/aerodina
 
 Output:
 
-[image](./leaflet_shiny.png)
+![image](./leaflet_shiny.png)
